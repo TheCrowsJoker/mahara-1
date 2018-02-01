@@ -18,9 +18,9 @@
     z-index: 2;
     outline: none;
     &:hover {
-        background-color: rgba(#111, 0.05);
+        background-color: rgba($list-group-link-hover-color, 0.05);
         .list-group-item-link & {
-            background-color: rgba(#111, 0.05);
+            background-color: rgba($list-group-link-hover-color, 0.05);
         }
     }
     + .list-group-item-heading {

@@ -61,7 +61,7 @@
         margin-top: 24px;
         float: left;
         z-index: 1;
-        background: rgba(#fff, 0.8);
+        background: rgba($dropdown-bg, 0.8);
         &:before {
             content: "\25BE";
             font-family: "FontAwesome";

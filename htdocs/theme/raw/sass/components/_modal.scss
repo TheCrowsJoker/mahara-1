@@ -4,7 +4,7 @@ $width-sm: 90%;
 
 //tinymce modal
 .blockinstance-as-modal {
-    background: #fff;
+    background: $modal-content-bg;
     padding: 20px;
     border: 1px solid $modal-header-border-color;
 }
